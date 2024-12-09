@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+}
+
+.full-screen-image {
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+}
+
+.section{
+    padding-bottom: 4vw;
+    padding-top: 4vw;
+}
